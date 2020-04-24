@@ -106,3 +106,6 @@ dist
 # videos
 *.mp4
 *.mp4.*
+
+# zip
+*.zip
